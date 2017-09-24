@@ -3,3 +3,5 @@ Dette er en text-fil.
 Kult!
 
 Nina er snill og greit som hjelper oss <3
+
+HURRA
